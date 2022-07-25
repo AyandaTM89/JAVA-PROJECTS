@@ -2,6 +2,9 @@
 Capstone Java Projects
 
 
+SQL CAPSTONE 
+
+
 ● Design a class called Course. The class should contain:
 ○ The data fields courseName (String), numberOfStudents (int) and
 courseLecturer (String).
